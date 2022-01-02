@@ -46,4 +46,11 @@ My fam call me : Akhil / Akku
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzme-lucifer&" alt="itzme-lucifer" /></p>
 
+## How is my new logo for this account...
+ 
+<div align="center">
 
+<p align="center"> <img src="https://telegra.ph/file/14887b598f7d4358560fa.jpg" height="145px" width="145px">
+
+                   
+</div
