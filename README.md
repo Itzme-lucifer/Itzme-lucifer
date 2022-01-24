@@ -3,7 +3,7 @@
 ### Hello bro/sis 👋
 
 
-Itzme-lucifer
+Loki the Mischief | Itzme-lucifer
 </p>
 My real name is : Akhil Mahesh
 </p>
@@ -16,19 +16,19 @@ My fam call me : Akhil / Akku
 </p>
 
 
-- 🔭 I’m currently working on <a href="https://github.com/Itzme-lucifer/Scarlett">WhatsApp Bot</a>
+- 🔭 I’m currently having higher secondary education
 
-- 🌱 I’m still young and a secondary school student
+- 🌱 I’m still young and a secondary school student at <a href="https://g.co/kgs/VmMPxq">Leo XIII HSS TVM</a>
 
-- ❤ I’m in love with someone but she is not interested in love bcz she is afraid of her fam & I'm ok with that
+- ❤ I have a crush in a girl.
 
-- 🤔 I’m looking for help to convince my girl
+- 🤔 I’m looking for help to teach me coding.
 
-- 💬 Ask me about my past <a href="http://wa.me/+919778062036">Itzme-lucifer</a>
+- 💬 Reach me via Insta 
 
 - 📫 Reach me via mail : www.luciferitzme@gmail.com
 
-- ⚡ Fun fact: I love my friends and my family and I respect girls
+- ⚡ Fun fact: My crush is my ex girlfriend I still love her.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -45,7 +45,7 @@ My fam call me : Akhil / Akku
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzme-lucifer&" alt="itzme-lucifer" /></p>
 
-## How is my new logo for this account...
+## My old logo...
  
 <div align="center">
 
