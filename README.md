@@ -1,22 +1,21 @@
 
 
-### Hello bro/sis 👋
+### Hello Friend👋
 
 
 Loki the Mischief | Itzme-lucifer
 </p>
 My real name is : Akhil Mahesh
 </p>
-My friends call me : Loki, Thorloki, Cyber Porali, etc...
-</p>
 My close friends call me : Akki
 </p>
-My fam call me : Akhil / Akku
+My family call me : Akku
 
 </p>
 
+- 🔺 I’m currently 17 years old
 
-- 🔭 I’m currently having higher secondary education
+- 📕 I’m currently having higher secondary education
 
 - 🌱 I’m still young and a secondary school student at <a href="https://g.co/kgs/VmMPxq">Leo XIII HSS TVM</a>
 
@@ -26,9 +25,9 @@ My fam call me : Akhil / Akku
 
 - 📫 Reach me via : www.luciferitzme@gmail.com 
 
-
 - ⚡ Fun fact: My crush is my ex girlfriend I still love her.
 
+- 🔭 I am not a developer just learning everything 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
