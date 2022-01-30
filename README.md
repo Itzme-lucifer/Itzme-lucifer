@@ -24,7 +24,7 @@ My fam call me : Akhil / Akku
 
 - 🤔 I’m looking for help to learn coding.
 
-- 📫 Reach me via : <a href="www.luciferitzme@gmail.com">Gmail</a>
+- 📫 Reach me via : www.luciferitzme@gmail.com 
 
 
 - ⚡ Fun fact: My crush is my ex girlfriend I still love her.
