@@ -52,6 +52,11 @@ My family call me : Akku
 
 <p align="center"> <img src="https://telegra.ph/file/14887b598f7d4358560fa.jpg" height="145px" width="145px">
 
+</p>
+
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/605676042590320dfbdda.jpg" width="120" height="180"/>
+
                    
 </div
 
