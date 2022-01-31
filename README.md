@@ -2,16 +2,18 @@
 
 ### Hello Friend👋
 
-<p align="center"><a href="https://github.com/yashk2000"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+<div align="center">
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://telegra.ph/file/0e794da2e03a6935e9796.jpg" height="100px" width="600px">
+
+</p>
 Loki the Mischief | Itzme-lucifer
 </p>
 My real name is : Akhil Mahesh
 </p>
 My close friends call me : Akki
 </p>
-My family call me : Akhil / Akku
+My family call me : Akku
 
 </p>
 
@@ -36,9 +38,17 @@ My family call me : Akhil / Akku
 <a href="https://instagram.com/thorloki_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thorloki_official" height="30" width="40" /></a>
 <a href="https://twitter.com/itzmelucifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmelucifer" height="30" width="40" /></a>
 <a href="https://fb.com/akkuzz akhil akkuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akkuzz akhil akkuzz" height="30" width="40" /></a>
+<a href="https://t.me/njan_orupavam">Telegram</a>
+
+</p>
+ 
+ <div align="center">
+  <img border-radius: 16px src="https://telegra.ph/file/dbf7f4d894bb0b53e4017.jpg" width="180" height="180"/>
 
 
 
+</p>
+ 
 # Languages and Tools
 </p>
 
@@ -53,6 +63,11 @@ My family call me : Akhil / Akku
 <div align="center">
 
 <p align="center"> <img src="https://telegra.ph/file/14887b598f7d4358560fa.jpg" height="145px" width="145px">
+
+</p>
+
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/605676042590320dfbdda.jpg" width="120" height="180"/>
 
                    
 </div
@@ -78,8 +93,14 @@ My family call me : Akhil / Akku
 
 
 
+# Fun Fact
+
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=25&width=800&lines=I+Don't+Know+These+Languages+I'm+Still+Learning+It+!"
+            alt="Typing SVG"
+        />
+    </a>
 </p>
-
-<p align="center">  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/privateinvestocat.jpg" height="160px" width="160px"> <img src="https://octodex.github.com/images/heisencat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px"></p>
-
-<p align="center"><a href="https://github.com/yashk2000"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
