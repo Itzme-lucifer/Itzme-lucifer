@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<p align="center"> <img src="https://telegra.ph/file/0e794da2e03a6935e9796.jpg" height="100px" width="800px">
+<p align="center"> <img src="https://telegra.ph/file/0e794da2e03a6935e9796.jpg" height="100px" width="600px">
 
 </p>
 Loki the Mischief | Itzme-lucifer
@@ -40,7 +40,15 @@ My family call me : Akku
 <a href="https://fb.com/akkuzz akhil akkuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akkuzz akhil akkuzz" height="30" width="40" /></a>
 <a href="https://t.me/njan_orupavam">Telegram</a>
 
+</p>
+ 
+ <div align="center">
+  <img border-radius: 16px src="https://telegra.ph/file/dbf7f4d894bb0b53e4017.jpg" width="180" height="180"/>
 
+
+
+</p>
+ 
 # Languages and Tools
 </p>
 
