@@ -11,7 +11,7 @@
 
 </p>
 
-<div align="left">
+<div align="center">
 
 
 Loki the Mischief | Itzme-lucifer
@@ -23,6 +23,8 @@ My close friends call me : Akki
 My family call me : Akku
 
 </p>
+
+<div align="left">
 
 - 🔺 I’m currently 17 years old
 
@@ -40,8 +42,8 @@ My family call me : Akku
 
 - 🔭 I am not a developer just learning everything 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Connect with me:</h1>
+<p align="center">
 <a href="https://instagram.com/thorloki_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thorloki_official" height="30" width="40" /></a>
 <a href="https://twitter.com/itzmelucifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmelucifer" height="30" width="40" /></a>
 <a href="https://fb.com/akkuzz akhil akkuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akkuzz akhil akkuzz" height="30" width="40" /></a>
@@ -65,7 +67,9 @@ My family call me : Akku
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzme-lucifer&" alt="itzme-lucifer" /></p>
 
-## My old logo...
+</p>
+
+<h2 align="center">𝙻𝙾𝙺𝙸 𝚃𝙷𝙴 𝙼𝙸𝚂𝙲𝙷𝙸𝙴𝙵</h2>
  
 <div align="center">
 
