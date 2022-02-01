@@ -2,6 +2,11 @@
 
 ### Hello Friend👋
 
+<p
+
+![My card name](https://cardivo.vercel.app/api?name=ITZME%20-%20LUCIFER&description=Hi,%20Welcome%20To%20My%20Profile%20Friends&image=https://telegra.ph/file/dbf7f4d894bb0b53e4017.jpg/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=thorloki_official&github=Itzme-lucifer&twitter=@ItzmeLucifer&pattern=leaf&colorPattern=%23eaeaea)>
+
+</p>
 <p align="center"><a href="https://github.com/Itzme-lucifer"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 
