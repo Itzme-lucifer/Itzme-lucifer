@@ -1,11 +1,13 @@
 
+ <html>
+  <body>
 
 ### 𝙷𝙴𝙻𝙻𝙾 𝙵𝚁𝙸𝙴𝙽𝙳👋
 
 
 <p
 
-![My card name](https://cardivo.vercel.app/api?name=ITZME%20-%20LUCIFER&description=ʜɪɪɪ%20ɢᴜʏᴢᴢ%20ᴡᴇʟᴄᴏᴍᴇ%20ᴛᴏ%20ᴍʏ%20ᴘʀᴏғɪʟᴇ%20ɪ%20ᴀᴍ%20ᴀᴋʜɪʟ%20ᴍᴀʜᴇsʜ%20&image=https://telegra.ph/file/32dd32f5cb2717658127c.jpg/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=thorloki_official&github=Itzme-lucifer&twitter=@ItzmeLucifer&pattern=leaf&colorPattern=%23eaeaea)>
+![My card name](https://cardivo.vercel.app/api?name=ITZME%20-%20LUCIFER&description=ʜɪɪɪ%20ɢᴜʏᴢᴢ%20ᴡᴇʟᴄᴏᴍᴇ%20ᴛᴏ%20ᴍʏ%20ᴘʀᴏғɪʟᴇ%20:%20ɪ%20ᴀᴍ%20ᴀᴋʜɪʟ%20ᴍᴀʜᴇsʜ%20&image=https://telegra.ph/file/32dd32f5cb2717658127c.jpg/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=thorloki_official&github=Itzme-lucifer&twitter=@ItzmeLucifer&pattern=leaf&colorPattern=%23eaeaea)>
 
 </p>
 
@@ -153,3 +155,7 @@ My family call me : ᴀᴋᴋᴜ
 <a href="https://telegra.ph/file/71d5d4850dd6e29ae225c.mp4" target="blank"<button> Click Me </button> </a>
 
 </p>
+
+
+  </body>
+ </html>
