@@ -87,7 +87,7 @@ My family call me : ᴀᴋᴋᴜ
 </p>
 <h2><strong>
 
-Now Working On <a href="https://github.com/Itzme-lucifer/Evania"> Evania </a>
+Now Working On <a href="https://github.com/Itzme-lucifer/Evania_1.0"> Evania </a>
 </strong></h2>
 
 # ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ
