@@ -28,39 +28,38 @@
 <div align="center">
 
 
-𝙻𝙾𝙺𝙸 𝚃𝙷𝙴 𝙼𝙸𝚂𝙲𝙷𝙸𝙴𝙵 | 𝙸𝚃𝚉𝙼𝙴-𝙻𝚄𝙲𝙸𝙵𝙴𝚁
+<b>𝙻𝙾𝙺𝙸 𝚃𝙷𝙴 𝙼𝙸𝚂𝙲𝙷𝙸𝙴𝙵 | 𝙸𝚃𝚉𝙼𝙴-𝙻𝚄𝙲𝙸𝙵𝙴𝚁</b>
 
 <br>
 
-My real name is : ᴀᴋʜɪʟ ᴍᴀʜᴇꜱʜ
+𝙼𝚢 𝚛𝚎𝚊𝚕 𝚗𝚊𝚖𝚎 𝚒𝚜 : 𝙰𝙺𝙷𝙸𝙻 𝙼𝙰𝙷𝙴𝚂𝙷
 
 <br>
 
-My close friends call me : ᴀᴋᴋɪ
+𝙼𝚢 𝚗𝚒𝚌𝚔𝚗𝚊𝚖𝚎 𝚒𝚜 : 𝙰𝙺𝙺𝙸/𝙰𝙺𝙺𝚄
 
 <br>
 
-My family call me : ᴀᴋᴋᴜ
 
 </p>
 
 <div align="left">
 
-- 🔺 I’m currently 17 years old
+- 🔺 𝙸'𝚖 17 𝚢𝚎𝚊𝚛𝚜 𝚘𝚕𝚍.
 
-- 📕 I’m currently having higher secondary education
+- 📕 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚑𝚊𝚟𝚒𝚗𝚐 𝚑𝚒𝚐𝚑𝚎𝚛 𝚜𝚎𝚌𝚘𝚗𝚍𝚊𝚛𝚢 𝚎𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗 𝚊𝚝 <a href="https://g.co/kgs/VmMPxq">𝙻𝙴𝙾 𝚇𝙸𝙸𝙸 𝙷𝚂𝚂 𝚃𝚅𝙼</a>
 
-- 🌱 I’m still young and a secondary school student at <a href="https://g.co/kgs/VmMPxq">Leo XIII HSS TVM</a>
+- 🌱 𝙵𝚒𝚗𝚍𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚝𝚛𝚞𝚎 𝚏𝚛𝚒𝚎𝚗𝚍𝚜 𝚊𝚗𝚍 𝚊 𝚙𝚎𝚛𝚏𝚎𝚌𝚝 𝚜𝚘𝚞𝚕 𝚝𝚘 𝚋𝚎 𝚠𝚒𝚝𝚑 𝚖𝚎 𝚏𝚘𝚛𝚎𝚟𝚎𝚛.
 
-- ✨️ My life changed from here <a href="https://g.co/kgs/wDyKLY"> SMV Govt Model HSS TVM </a>
+- ✨️ 𝙼𝚢 𝚕𝚒𝚏𝚎 𝚌𝚑𝚊𝚗𝚐𝚎𝚍 𝚏𝚛𝚘𝚖 𝚑𝚎𝚛𝚎 <a href="https://g.co/kgs/wDyKLY"> 𝚂𝙼𝚅 𝙶𝙾𝚅𝚃. 𝙼𝙾𝙳𝙴𝙻 𝙷𝚂𝚂 𝚃𝚅𝙼 </a>
 
-- 🤔 I’m looking for help to learn coding.
+- 🤔 𝚃𝚑𝚒𝚗𝚔𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 𝚏𝚞𝚝𝚞𝚛𝚎...
 
-- 📫 Reach me via : www.luciferitzme@gmail.com 
+- 📫 𝚁𝚎𝚊𝚌𝚑 𝙼𝚎 𝚟𝚒𝚊 : www.luciferitzme@gmail.com 
 
-- ⚡ Fun fact: I have a crush.
+- ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝: 𝙸 𝚑𝚊𝚟𝚎 𝚊 𝚌𝚛𝚞𝚜𝚑, 𝚋𝚞𝚝 𝚒𝚝'𝚜 𝚊 𝚕𝚘𝚜𝚒𝚗𝚐 𝚐𝚎𝚖...
 
-- 🔭 I am not a developer just learning everything 
+- 🔭 𝙸 𝚊𝚖 𝚗𝚘𝚝 𝚊 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚓𝚞𝚜𝚝 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐. 
 
 
 <h1><b>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:</b></h1>
@@ -69,7 +68,7 @@ My family call me : ᴀᴋᴋᴜ
 <a href="https://instagram.com/thorloki_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thorloki_official" height="30" width="40" /></a>
 <a href="https://twitter.com/itzmelucifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmelucifer" height="30" width="40" /></a>
 <a href="https://fb.com/akkuzz akhil akkuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akkuzz akhil akkuzz" height="30" width="40" /></a>
-<a href="https://t.me/njan_orupavam">Telegram</a>
+<a href="https://t.me/njan_orupavam">ᴛᴇʟᴇɢʀᴀᴍ</a>
 
 
 
@@ -118,7 +117,7 @@ Now Working On <a href="https://github.com/Itzme-lucifer/Evania_1.0"> Evania </a
 
 
 
-<h2><b>  Gɪᴛʜᴜʙ ꜱᴛᴀᴛɪᴛɪᴄꜱ :- </b></h2>
+<h2><b>  ɢɪᴛʜᴜʙ ꜱᴛᴀᴛɪᴛɪᴄꜱ :- </b></h2>
 <a href="https://github.com/Itzme-lucifer"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Itzme-lucifer&theme=monokai"></a>
 </p>  
 <p align="center"> 
