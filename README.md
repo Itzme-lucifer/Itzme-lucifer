@@ -86,8 +86,11 @@
 </p>
 <h2><strong>
 
-Now Working On <a href="https://github.com/Itzme-lucifer/Evania_1.0"> Evania </a>
-</strong></h2>
+Now Working On </strong></h2>
+
+<div align="center">
+  
+  [![Evania](https://telegra.ph/file/7a89888972934afb097f3.jpg)](https://github.com/Itzme-lucifer/Evania_1.0)[`𝙴𝚟𝚊𝚗𝚒𝚊_1.0`](https://github.com/Itzme-lucifer/Evania_1.0)
 
 # ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ
 
