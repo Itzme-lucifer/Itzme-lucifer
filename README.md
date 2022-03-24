@@ -89,7 +89,7 @@ Now Working On </strong></h2>
 
 <div align="center">
   
-  [![Evania](https://telegra.ph/file/7a89888972934afb097f3.jpg)](https://github.com/Itzme-lucifer/Evania_1.2)[`𝙴𝚟𝚊𝚗𝚒𝚊_1.2`](https://github.com/Itzme-lucifer/Evania_1.2)
+  [![Evania](https://telegra.ph/file/7a89888972934afb097f3.jpg)](https://github.com/Itzme-lucifer/Evania_1.0)[`𝙴𝚟𝚊𝚗𝚒𝚊_1.0`](https://github.com/Itzme-lucifer/Evania_1.0)
 
 # ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ
 
