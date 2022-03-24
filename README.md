@@ -68,7 +68,6 @@
 <a href="https://instagram.com/thorloki_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thorloki_official" height="30" width="40" /></a>
 <a href="https://twitter.com/itzmelucifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmelucifer" height="30" width="40" /></a>
 <a href="https://fb.com/akkuzz akhil akkuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akkuzz akhil akkuzz" height="30" width="40" /></a>
-<a href="https://t.me/njan_orupavam">ᴛᴇʟᴇɢʀᴀᴍ</a>
 
 
 
