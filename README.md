@@ -2,11 +2,9 @@
 
 <p
 
-![My Card Name](https://cardivo.vercel.app/api?name=ITZME%20-%20LUCIFER&description=𝚆𝙴𝙻𝙲𝙾𝙼𝙴%20𝚃𝙾%20𝙼𝚈%20𝙶𝙸𝚃%20|%20𝙼𝚈%20𝙽𝙰𝙼𝙴%20𝙸𝚂%20𝙰𝙺𝙷𝙸𝙻%20𝙼𝙰𝙷𝙴𝚂𝙷%20&image=https://i.imgur.com/aGHfvjW.jpeg/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=itzme_lucifer01&github=Itzme-lucifer&twitter=@ItzmeLucifer&pattern=leaf&colorPattern=%23eaeaea)
+![My Card Name](https://cardivo.vercel.app/api?name=ITZME%20-%20LUCIFER&description=𝚆𝙴𝙻𝙲𝙾𝙼𝙴%20𝚃𝙾%20𝙼𝚈%20𝙶𝙸𝚃%20&image=https://i.imgur.com/aGHfvjW.jpeg/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=itzme_lucifer01&github=Itzme-lucifer&twitter=@ItzmeLucifer&pattern=leaf&colorPattern=%23eaeaea)
 
 </p>
-
-<div align="center" > <a href="github.com/Itzme-lucifer"> <img src="https://i.imgur.com/RFq1ejn.jpeg" height="200px" width="300px" > </a>
 
 ---
 
@@ -24,8 +22,6 @@
 - 😇 𝙸'𝙼 𝙹𝚄𝚂𝚃 18
 
 - 😉 𝙸'𝙼 𝙵𝚁𝙾𝙼 <a href="https://g.co/kgs/X8V8rF"> 𝚃𝚁𝙸𝚅𝙰𝙽𝙳𝚁𝚄𝙼 </a>
-
-- ❤️ 𝙻𝙾𝙰𝙳𝙸𝙽𝙶
 
 - 😅 𝙸'𝙼 𝚃𝚁𝚈𝙸𝙽𝙶 𝚃𝙾 𝙻𝙴𝙰𝚁𝙽 𝚂𝙾𝙼𝙴 𝙲𝚁𝙰𝙿𝚂
 
